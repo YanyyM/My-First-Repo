@@ -1,1 +1,3 @@
-# My-First-Repo
+# My First Repository
+
+This is my first repository on GitHub!
